@@ -1,0 +1,1 @@
+因期末大作业的需要，基于android studio开发的新闻app，该app具有一定的功能
